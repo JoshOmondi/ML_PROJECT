@@ -1,4 +1,4 @@
-Name,Age,Location
-Alice,30,Nairobi
-Bob,25,Accra
-Charlie,35,Johannesburg
+match_id,season,city,date,team1,team2,winner,player_of_match
+1,2017,Hyderabad,2017-04-05,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,Yuvraj Singh
+2,2017,Pune,2017-04-06,Rising Pune Supergiant,Mumbai Indians,Rising Pune Supergiant,Steven Smith
+3,2017,Rajkot,2017-04-07,Gujarat Lions,Kolkata Knight Riders,Kolkata Knight Riders,Chris Lynn
